@@ -29,14 +29,14 @@ campaign brochure.
 
 ## How to Use the Resources
 
-1. Read [Phishing Awareness](docs/phishing-awareness.md) to learn how to
+1. Read [Phishing Awareness](doc/phishing-awareness.md) to learn how to
    recognise suspicious messages and respond safely.
-2. Work through the [Cybersecurity Checklist](checklists/cybersecurity-checklist.md)
+2. Work through the [Cybersecurity Checklist](checklists/Cybersecurity-checklist.md)
    to review the security of your accounts and devices.
-3. Use the [Incident Report Template](templates/incident-report-template.md)
+3. Use the [Incident Report Template](Template/incident-report-template.md)
    to record a suspected incident before reporting it through an official
    support channel.
-4. Open the [Project LockStep brochure](brochure/project-lockstep-brochure.pdf)
+4. Open the [Project LockStep brochure](brochure/Project-Lockstep-Brochure.pdf)
    for a visual summary of the campaign.
 
 ## Reporting Safely
