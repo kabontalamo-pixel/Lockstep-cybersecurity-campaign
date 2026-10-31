@@ -6,5 +6,5 @@ their accounts from password attacks, phishing and identity theft.
 
 ## Contents
 
-- [project-lockstep-brochure.pdf](project-lockstep-brochure.pdf): tri-fold
+- [project-lockstep-brochure.pdf](Project-Lockstep-Brochure.pdf): tri-fold
   brochure for the Project LockStep campaign.
