@@ -52,7 +52,7 @@ receiving a suspicious message.
 - [ ] Do not approve an MFA prompt you did not request.
 - [ ] Report suspicious messages to the relevant service provider or your
       university IT helpdesk.
-- [ ] Use the [incident-report template](../templates/incident-report-template.md)
+- [ ] Use the [incident-report template](../Templates/incident-report-template.md)
       to record suspected incidents.
 
 ## Sources
